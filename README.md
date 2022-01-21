@@ -35,5 +35,5 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boogeyman-is-back-at-crabfest&show_icons=true&locale=en&layout=compact" alt="boogeyman-is-back-at-crabfest" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boogeyman-is-back-at-crabfest&show_icons=true&locale=en" alt="boogeyman-is-back-at-crabfest" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boogeyman-is-back-at-crabfest&show_icons=true&locale=en&layout=compact" alt="boogeyman-is-back-at-crabfest" /></p>
   
