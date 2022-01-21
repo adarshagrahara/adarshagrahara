@@ -30,8 +30,6 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 
 ##  Stats
 
-![Metrics](https://metrics.lecoq.io/boogeyman-is-back-at-crabfest?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FLos_Angeles)
-  <br>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boogeyman-is-back-at-crabfest&show_icons=true&locale=en&layout=compact" alt="boogeyman-is-back-at-crabfest" /></p>
 
