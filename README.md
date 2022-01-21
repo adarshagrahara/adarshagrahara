@@ -3,7 +3,7 @@
 My name is Adarsh Agrahara and I am a 10th grade High School student. I am really interested in languages such as Java, Jsp, Javascript, Html, Css, SQL, Gradle, Maven, and AI/ML.
 ## About me
 
-- 👍 &nbsp;I am learning more about Java right now.
+- 👍 &nbsp;I am learning more about Java right now.     
 - 🌱 &nbsp;I am learning SQL and Database design.
 - 👨‍💻 &nbsp;I am programming for both my High School robotics teams (FTC & FRC).
 - 🔭 &nbsp;I am really interested in AI, and neural networks.
@@ -30,6 +30,9 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 
 ##  Stats
 
+![Metrics](https://metrics.lecoq.io/boogeyman-is-back-at-crabfest?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=America%2FLos_Angeles)
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boogeyman-is-back-at-crabfest&show_icons=true&locale=en&layout=compact" alt="boogeyman-is-back-at-crabfest" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boogeyman-is-back-at-crabfest&show_icons=true&locale=en" alt="boogeyman-is-back-at-crabfest" /></p>
+  
