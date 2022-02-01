@@ -5,7 +5,7 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 
 - 👍 &nbsp;I am learning more about Java right now.     
 - 🌱 &nbsp;I am learning SQL and Database design.
-- 👨‍💻 &nbsp;I am programming for both my High School robotics teams (FTC & FRC).
+- 👨‍💻 &nbsp;I am programming for both my High School robotics teams FTC(18715) & FRC(2854).
 - 🔭 &nbsp;I am really interested in AI, and neural networks.
 - 💭 &nbsp;I also want to try competitive programming
 
