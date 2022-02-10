@@ -5,10 +5,10 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 
 - 👍 &nbsp;I am learning more about Java right now.     
 - 🌱 &nbsp;I am learning SQL and Database design.
-- 👨‍💻 &nbsp;I am programming for both my High School robotics teams FTC(18715) & FRC(2854).
+- 👨‍💻 &nbsp;I am programming for both my High School robotics teams [FTC(18715)](https://github.com/artemis18715) & [FRC(2854)](https://github.com/EVHSRobotics).
 - 🔭 &nbsp;I am really interested in AI, and neural networks.
 - 💭 &nbsp;I also want to try competitive programming.
-- 🤔 &nbsp;Currently interested in Vaadin and OpenCV & BoffCV Frameworks.
+- 🤔 &nbsp;Currently interested in [Vaadin](https://vaadin.com), [OpenCV](https://opencv.org) & [BoofCV](http://boofcv.org/index.php?title=Main_Page) Frameworks.
 
 
 
