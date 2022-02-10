@@ -8,7 +8,7 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 - 👨‍💻 &nbsp;I am programming for both my High School robotics teams FTC(18715) & FRC(2854).
 - 🔭 &nbsp;I am really interested in AI, and neural networks.
 - 💭 &nbsp;I also want to try competitive programming.
-- 🤔 &nbsp;Currently interested in Vaadin and OpenCV Frameworks.
+- 🤔 &nbsp;Currently interested in Vaadin and OpenCV & BoffCV Frameworks.
 
 
 
