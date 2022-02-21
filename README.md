@@ -23,7 +23,8 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" margin-right="20" width="60" height="60"/> </a><a href="https://gradle.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://postgresql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
-<a href="https:///" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
+<a href="https://www.jetbrains.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
+  <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <g>
 
 
