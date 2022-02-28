@@ -1,6 +1,6 @@
 
 # Hello   :)
-My name is Adarsh Agrahara and I am a 10th grade High School student. I am really interested in languages such as Java, Jsp, Javascript, Html, Css, SQL, Gradle, Maven, XML, and AI/ML.
+My name is Adarsh Agrahara and I am a 10th grade High School student. I am really interested in languages such as Java, Jsp, Javascript, Html, Css, SQL, Gradle, Maven, XML, AI/ML and REST & GraphQL API's.
 ## About me
 
 - 👍 &nbsp;I am learning more about Java right now.     
@@ -24,6 +24,7 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://www.apache.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
  <a href="https://spring.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
+ <a href="https://graphql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" margin-right="20" width="60" height="60"/> </a><a href="https://gradle.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://postgresql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://www.jetbrains.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
