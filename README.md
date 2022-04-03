@@ -3,21 +3,21 @@
 
 # Hello   :)
 My name is Adarsh Agrahara and I am a 10th grade High School student. 
-*Languages I am interested in*
--Java
--Jsp
--Javascript
--Html
--Css
--SQL
+&nbsp;*Languages I am interested in*
+-&nbsp;Java
+-&nbsp;Jsp
+-&nbsp;Javascript
+-&nbsp;Html
+-&nbsp;Css
+-&nbsp;SQL
 
-*Framworks I am interested in*
--Gradle
--Maven
--Flask
--XML
--AI/ML 
--REST & GraphQL API's.
+&nbsp;*Framworks I am interested in*
+-&nbsp;Gradle
+-&nbsp;Maven
+-&nbsp;Flask
+-&nbsp;XML
+-&nbsp;AI/ML 
+-&nbsp;REST & GraphQL API's.
 ## About me
 
 - 👍 &nbsp;I am learning more about Java right now.     
