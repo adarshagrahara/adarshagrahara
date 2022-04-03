@@ -16,12 +16,15 @@ My name is Adarsh Agrahara and I am a 10th grade High School student. I am reall
 
 <p align="left">
 <g>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" margin-right="20" width="60" height="60"/> </a><use><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" margin-right="20" height="60"/ </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="sass" margin-right="20" width="60" height="60" /> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" margin-right="20" width="60" height="60"/> </a><use>
+ <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="sass" margin-right="20" width="60" height="60" /> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" margin-right="20" height="60"/ </a>
 <a href="https://www.typescriptlang.org" {:target="_blank"}> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" margin-right="20" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" margin-right="20" width="60" height="60"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" margin-right="20" width="60" height="60" /> </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
+   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
 <a href="https://www.apache.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
  <a href="https://spring.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="git" margin-right="20" width="60" height="60"/> </a>
