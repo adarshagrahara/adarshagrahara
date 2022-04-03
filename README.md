@@ -2,7 +2,22 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 # Hello   :)
-My name is Adarsh Agrahara and I am a 10th grade High School student. I am really interested in languages such as Java, Jsp, Javascript, Html, Css, SQL, Gradle, Maven, XML, AI/ML and REST & GraphQL API's.
+My name is Adarsh Agrahara and I am a 10th grade High School student. 
+*Languages I am interested in*
+-Java
+-Jsp
+-Javascript
+-Html
+-Css
+-SQL
+
+*Framworks I am interested in*
+-Gradle
+-Maven
+-Flask
+-XML
+-AI/ML 
+-REST & GraphQL API's.
 ## About me
 
 - 👍 &nbsp;I am learning more about Java right now.     
