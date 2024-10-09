@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 # Hello   :)
-My name is Adarsh Agrahara and I am a 12th grade High School student. 
+My name is Adarsh Agrahara and I am a Freshman at UC Santa Barbara. 
 &nbsp;*Languages I am interested in*
 -&nbsp;Java
 -&nbsp;Jsp
